@@ -1,0 +1,28 @@
+{
+  "name": "dauthenticator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhdongnguyen/dauthenticator.git"
+  },
+  "keywords": [
+    "authenticator"
+  ],
+  "author": "dongnt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhdongnguyen/dauthenticator/issues"
+  },
+  "homepage": "https://github.com/thanhdongnguyen/dauthenticator#readme",
+  "dependencies": {
+    "aotp": "^1.0.0",
+    "authenticator-cli": "^1.0.5",
+    "notp": "^2.0.3",
+    "thirty-two": "^1.0.2"
+  }
+}
