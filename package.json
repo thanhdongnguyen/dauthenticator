@@ -1,6 +1,6 @@
 {
   "name": "dauthenticator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/thanhdongnguyen/dauthenticator#readme",
   "dependencies": {
-    "aotp": "^1.0.0",
+    "aotp": "^1.0.1",
     "authenticator-cli": "^1.0.5",
     "notp": "^2.0.3",
-    "thirty-two": "^1.0.2"
+    "thirty-two": "0.0.2"
   }
 }
